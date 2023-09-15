@@ -11,7 +11,7 @@
         <div class="col-md-6">
           
           <div class="cuadrado">
-            <p class="frase font-weight-boldtexto-sombreado ">Reformamos el lugar perfecto para ti</p>
+            <p class="frase font-weight-boldtexto-sombreado ">Reformamos el lugar perfecto para ti.</p>
             <div class="d-flex justify-content-center">
            <button class="btn btn-outline-light mr-2" @click="mostrarMensaje('Botón 1 presionado')">Trabajos</button>
           <button class="btn btn-outline-light" @click="mostrarMensaje('Botón 2 presionado')">Presupuestos</button> 
